@@ -24,3 +24,9 @@
 /*.launch
 /eclipse2
 .project
+
+gradle.properties.bak
+
+build.gradle.bak
+
+.idea/
