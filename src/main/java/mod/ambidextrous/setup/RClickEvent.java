@@ -18,6 +18,8 @@ public class RClickEvent {
 //        KeyMapping.click(keyUseR);
 //
 //    }
+
+
     private final Minecraft minecraft;
     private final Method rightClickMouseMethod;
 
