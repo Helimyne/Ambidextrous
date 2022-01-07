@@ -30,3 +30,7 @@ gradle.properties.bak
 build.gradle.bak
 
 .idea/
+
+run/
+
+temp/

@@ -9,7 +9,9 @@ displayName="Ambidextrous"
 logoFile=""
 credits="AlgorithmX2"
 authors="AlgorithmX2, Helimyne"
-description="a mod about using two keybinds for each hand."
+description='''
+a mod about using two keybinds for each hand.
+'''
 [[dependencies.ambidextrous]]
     modId="forge"
     mandatory=true
